@@ -1,0 +1,29 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+p {
+  background-color: aqua;
+  color: black;
+  font-weight: 700;
+}
+
+h3 {
+  padding: 10px;
+
+  display: inline-block;
+  text-transform: uppercase;
+  background-color: black;
+  color: white;
+}
+
+div {
+  display: flex;
+  align-items: center;
+  padding-left: 30%;
+
+  width: 100%;
+  height: auto;
+}
