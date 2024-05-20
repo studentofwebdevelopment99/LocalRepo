@@ -27,3 +27,8 @@ div {
   width: 100%;
   height: auto;
 }
+
+.imp {
+  background-color: brown;
+  color: white;
+}
